@@ -12,6 +12,12 @@ O objetivo deste projeto é criar um processo interno para ajudar os membros a a
 
 * [Unidade 01](eletronica/eletronica-un01.md) - Conceitos básicos e breadboard
 
+## Sugestões
+
+Queres sugerir um vídeo? Usa o link abaixo:
+
+* https://goo.gl/forms/g9KGcytj1p6dJTcC2
+
 ## Planeamento
 
 * [Eletronica](eletronica.md)
