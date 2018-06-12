@@ -27,7 +27,7 @@
 * LDRs
 * Potenciometros
 
-## Soldagem
+## Soldadura
 
 * [Collin's Lab: Soldering](https://www.youtube.com/watch?v=QKbJxytERvg)
 

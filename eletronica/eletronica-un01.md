@@ -15,3 +15,15 @@ Curriculos LCD - Eletrónica
 Montagem de circuito numa breadboard.
 
 Revê o [video sobre Breadboards](https://youtu.be/6WReFkfrUIk?t=300) e com o material disponível monta o circuito demonstrado a partir do minuto 12.
+
+## Inquérito
+
+Por favor responde ao inquérito abaixo para melhorarmos este curriculo.
+
+* https://goo.gl/forms/g7GwIfWsy0YJTC3G3
+
+## Sugestões
+
+Queres sugerir um vídeo? Usa o link abaixo:
+
+* https://goo.gl/forms/g9KGcytj1p6dJTcC2
