@@ -11,6 +11,7 @@ O objetivo deste projeto é criar um processo interno para ajudar os membros a a
 ### Eletronica
 
 * [Unidade 01](eletronica/eletronica-un01.md) - Conceitos básicos e breadboard
+* [Unidade 02](eletronica/eletronica-un02.md) - Componentes 
 
 ## Sugestões
 
