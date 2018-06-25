@@ -70,10 +70,11 @@ Boa sorte!!
 
 Por favor responde ao inquérito abaixo para melhorarmos este curriculo.
 
-* @TODO
+* https://goo.gl/forms/bTMEV41sWgrV9OI23
 
 
 ## Bonos
 
 * [Soldering is Easy (comic book)](https://mightyohm.com/files/soldercomic/FullSolderComic_EN.pdf)
+* [Circuit Symbols](https://electronicsclub.info/circuitsymbols.htm)
 * [BC327 Datasheet](https://www.onsemi.com/pub/Collateral/BC327-D.PDF)
