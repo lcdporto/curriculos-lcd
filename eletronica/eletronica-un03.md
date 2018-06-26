@@ -21,23 +21,23 @@ Para este projeto vamos necessitar do seguinte material:
 
 * Breadboard
 * Placa perfurada para soldar
-* LDR - Um foto resistor (Light Defined Resistor)
+* LDR (Light Dependent Resistor) - Uma fotoresistência
 * LED 5mm
 * Transistor PNP (BC327)
 * Resistência 10k (R1)
-* Resistẽncia 330K (R2)
+* Resistência 330K (R2)
 * Resistência 2.2k (R3)
-* Terminal de bloco com parafuro
+* Terminal de bloco com parafuso
 * Pilha 9v
-* Snap connector para pilha de 9v
+* Ficha para pilha de 9v
 
 E as seguintes ferramentas e material de proteção.
 
 * Ferro de soldar
 * Suporte para ferro de soldar
-* Malha de aço para limpar ferro
+* Esponja Metálica para limpar ferro
 * Solda
-* Bomba de desoldar
+* Bomba de dessoldar
 * Óculos de proteção
 * Superfície descartável
 

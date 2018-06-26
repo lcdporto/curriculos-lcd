@@ -12,7 +12,7 @@ O objetivo deste projeto é criar um processo interno para ajudar os membros a a
 
 * [Unidade 01](eletronica/eletronica-un01.md) - Conceitos básicos e breadboard
 * [Unidade 02](eletronica/eletronica-un02.md) - Componentes
-* [Unidade 03](eletronica/eletronica-un03.md) - Esquematicas, placas perfuradas e soldadura 
+* [Unidade 03](eletronica/eletronica-un03.md) - Esquemáticas, placas perfuradas e soldadura
 
 ## Sugestões
 
