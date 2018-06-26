@@ -8,7 +8,7 @@ Some random thoughts on the web platform to be.
 * Instructables (https://www.instructables.com/)
 * Inventables (https://www.inventables.com/)
 * Khan Academy (https://www.khanacademy.org/)
-* Thingiverse (https://www.thingiverse.com/thing:2972245)
+* Thingiverse (https://www.thingiverse.com/)
 
 ## Features
 
