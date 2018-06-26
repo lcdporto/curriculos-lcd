@@ -73,7 +73,7 @@ Por favor responde ao inquérito abaixo para melhorarmos este curriculo.
 * https://goo.gl/forms/bTMEV41sWgrV9OI23
 
 
-## Bonos
+## Extras
 
 * [Soldering is Easy (comic book)](https://mightyohm.com/files/soldercomic/FullSolderComic_EN.pdf)
 * [Circuit Symbols](https://electronicsclub.info/circuitsymbols.htm)
